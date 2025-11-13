@@ -11,10 +11,10 @@
 ---
 
 ## 📂 디렉토리 구조
-📁 data/ — 교재 예제 데이터
-📁 notebooks/ — 챕터별 Jupyter Notebook
-📁 code/ — 파이썬 예제 코드
-📁 images/ — 삽화·그래프
+- 📁 data/ — 교재 예제 데이터
+- 📁 notebooks/ — 챕터별 Jupyter Notebook
+- 📁 code/ — 파이썬 예제 코드
+- 📁 images/ — 삽화·그래프
 
 ---
 
