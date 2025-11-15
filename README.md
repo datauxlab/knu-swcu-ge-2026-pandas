@@ -1,10 +1,10 @@
-# KNU SWCU GE 2026 – Pandas Textbook  
+# KNU SWCU GE – Pandas Textbook  
 국립공주대학교 SW중심대학사업 기초교양 교과목 *파이썬 데이터 분석(Pandas)* 교재 저장소
 
 ---
 
 ## 📘 소개
-이 저장소는 **2026학년도 국립공주대학교 SW중심대학사업 기초교양 교과목**  
+이 저장소는 **국립공주대학교 SW중심대학사업 기초교양 교과목**  
 **「파이썬 데이터 분석(Pandas)」** 강의에서 사용하는  
 예제 코드, 데이터 파일, Jupyter Notebook을 포함합니다.
 
